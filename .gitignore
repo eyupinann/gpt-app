@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Gradle
+android/.gradle
+android/captures/
+android/app/build/
+
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.vscode
+*.swp
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/build/
+ios/Pods/
+ios/DerivedData/
